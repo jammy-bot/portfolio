@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Jamel Dargan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/blinds.jpg"
   bio              : "Data Science Portfolio"
   location         : "Norfolk, VA"
   email            :

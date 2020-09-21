@@ -1,10 +1,11 @@
+---
 layout: archive
-permalink:/projects/
+permalink: /projects/
 title: "Projects by Tags"
 author_profile: true
 header:
   image: "/images/pexels-francesco-ungaro-4526712.jpg"
-  ---
+---
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>os on Jamel Dargan</title>
+    <link>https://jammy-bot.github.io/portfolio/tags/os/</link>
+    <description>Recent content in os on Jamel Dargan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jammy-bot.github.io/portfolio/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online News Prediction</title>
+      <link>https://jammy-bot.github.io/portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammy-bot.github.io/portfolio/post/project-3/</guid>
+      <description>Link to Github repository
+Objectives  Create a classification model. Determine which features are best able to predict how often an online article will be shared.  Data Set This dataset was acquired from the University of California, Irvine&amp;rsquo;s Center for Machine Learning and Intelligent Systems archive (https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity#).
+ Data references articles published by Mashable (www.mashable.com). Citation: K Fernandes, P Vinagre, P Cortez - Progress in Artificial Intelligence: 17th Portuguese Conference on Artificial Intelligence, EPIA 2015, Coimbra, Portugal, September 8-11, 2015.</description>
+    </item>
+    
+    <item>
+      <title>Making Movies</title>
+      <link>https://jammy-bot.github.io/portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammy-bot.github.io/portfolio/post/project-4/</guid>
+      <description>Link to Github repository
+Introduction This project focuses on using data concerning recently successful movie titles. The goal is analysis helpful to the launch of a new studio.
+Objectives This project explores the following questions and why:
+ What are the recent top titles, by gross earnings? Which are the top performing studios? How fluid are their rankings What are the most frequently produced genres? …The biggest earning? What is the genre mix for top studios?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keras on Jamel Dargan</title>
+    <link>https://jammy-bot.github.io/portfolio/tags/keras/</link>
+    <description>Recent content in keras on Jamel Dargan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jammy-bot.github.io/portfolio/tags/keras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pneumonia X-ray</title>
+      <link>https://jammy-bot.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammy-bot.github.io/portfolio/post/project-2/</guid>
+      <description>Link to Github repository
+Chest x-ray image of normal lungsThis project involves building a deep neural network that trains on a large dataset for classification on a non-trivial task. In this case, the task is using x-ray images of patients to classify whether or not they have pneumonia.
+The Dataset The dataset originates from Kermany et al. on Mendeley.
+The particular subset used for this project is sourced via Kaggle.</description>
+    </item>
+    
+  </channel>
+</rss>

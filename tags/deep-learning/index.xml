@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning on Jamel Dargan</title>
+    <link>https://jammy-bot.github.io/portfolio/tags/deep-learning/</link>
+    <description>Recent content in deep learning on Jamel Dargan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jammy-bot.github.io/portfolio/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pytorch Influence Functions</title>
+      <link>https://jammy-bot.github.io/portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammy-bot.github.io/portfolio/post/project-1/</guid>
+      <description>Determining which images have the greatest positive and negative impact on a Deep Neural Network model’s predictions.
+Link to Github repository
+Using PyTorch to Identify Model Influences This project is based on the nimarb reimplementation of Influence Functions from the ICML2017 best paper: Understanding Black-box Predictions via Influence Functions by Pang Wei Koh and Percy Liang. The reference implementation can be found here: link.
+The Dataset The project makes use of the CIFAR-10 image dataset, which consists of 50,000 training images and 10000 test images in 10 classes.</description>
+    </item>
+    
+    <item>
+      <title>Pneumonia X-ray</title>
+      <link>https://jammy-bot.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jammy-bot.github.io/portfolio/post/project-2/</guid>
+      <description>Link to Github repository
+Chest x-ray image of normal lungsThis project involves building a deep neural network that trains on a large dataset for classification on a non-trivial task. In this case, the task is using x-ray images of patients to classify whether or not they have pneumonia.
+The Dataset The dataset originates from Kermany et al. on Mendeley.
+The particular subset used for this project is sourced via Kaggle.</description>
+    </item>
+    
+  </channel>
+</rss>
